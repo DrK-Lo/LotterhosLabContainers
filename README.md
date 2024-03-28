@@ -8,6 +8,8 @@ bedtools
 bamtools
 vcftools
 plink
+plink2
+samtools
 
 # R packages
 library(devtools)
@@ -26,6 +28,17 @@ library(adegenet)
 library(ade4)
 library(pegas)
 library(poppr)
+library(psych)
 library(LEA)
 library(vcfR)
 library(OutFLANK)
+library(gradientForest)
+library(raster)
+library(rgdal)
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(sdmpredictors)
+library(sf)
+library(stringr)
+library(terra)
+library(qvalue)
