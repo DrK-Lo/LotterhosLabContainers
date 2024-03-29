@@ -16,6 +16,7 @@ mapDamage
 bowtie2
 BWA
 GATK
+ANGSD
 
 # R packages
 library(devtools)
