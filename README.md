@@ -17,6 +17,9 @@ bowtie2
 BWA
 GATK
 ANGSD
+NGSadmix
+smartpca / eigensoft
+Pcangsd
 
 # R packages
 library(devtools)
