@@ -11,6 +11,12 @@ plink
 plink2
 samtools
 
+# ancient DNA tools
+mapDamage
+bowtie2
+BWA
+GATK
+
 # R packages
 library(devtools)
 library(data.table)
@@ -44,3 +50,22 @@ library(rgeos)
 library(stringr)
 library(terra)
 library(qvalue)
+
+# Madeline used these R packages for processing environmental data and making maps/phenotype-geography maps in R - might want to add?
+library(dplyr)
+library(lubridate)
+library(readr)
+library(tidyverse)
+library(ggrepel)
+library(maps)
+library(lme4)
+library(sp)
+library(rasterVis)
+library(scales)
+library(colourvalues)
+
+
+
+
+
+
